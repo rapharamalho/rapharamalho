@@ -1,6 +1,4 @@
-### Olá, eu sou o Raphael 👋🏻
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=fe3b65&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Abdalla!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=fe3b65&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Raphael+👋🏻" alt="Typing SVG" /></a>
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5s0YlIEttXkdwkxWgyV-sg)
