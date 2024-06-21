@@ -3,7 +3,7 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5s0YlIEttXkdwkxWgyV-sg)
 
-![Rapha GitHub stats](https://github-readme-stats.vercel.app/api?username=rapharamalho&show_icons=true&theme=dracula)
+![Rapha GitHub stats](https://github-readme-stats.vercel.app/api?username=rapharamalho&show_icons=true&theme=shadow_red)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapharamalho&layout=compact)
 
