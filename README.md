@@ -1,9 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=ff0000&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Raphael+👋🏻" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=27E8A7&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Raphael+👋🏻" alt="Typing SVG" /></a>
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5s0YlIEttXkdwkxWgyV-sg)
 
-![Rapha GitHub stats](https://github-readme-stats.vercel.app/api?username=rapharamalho&show_icons=true&theme=shadow_red)
+![Rapha GitHub stats](https://github-readme-stats.vercel.app/api?username=rapharamalho&show_icons=true&theme=blueberry)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapharamalho&layout=compact)
 
